@@ -27,7 +27,8 @@ The following commands are your daily bread and butter, if you are using CLI
 
 ## Add GitHub CoPilot Extension
 
-<img width="884" alt="image" src="https://github.com/AMNEngineering/amn-internship-python/assets/29447019/182bacec-ac24-4d73-a77a-ec29dbf39a36">
+![image](https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/f35cde00-8718-4066-8bd1-48dd71b014c8)
+
 
 ## Postman
 1. Go to [Download Postman](https://www.postman.com/downloads/) and get the latest postman tool.
