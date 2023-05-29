@@ -81,7 +81,7 @@ Fundamental/Foundational Course - Must watch. Worth binge watching while folding
 
 <img width="259" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/6041a9b6-700d-4c9d-bfe0-3c9e3263a45b">
 
-## Books
+# Books
 
 ### Pragmatic Programmer
 <img width="1279" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/b624ee14-34dd-41be-91e2-fabd6671b765">
