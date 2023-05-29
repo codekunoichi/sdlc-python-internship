@@ -45,7 +45,7 @@ The following commands are your daily bread and butter, if you are using CLI
 4. You own the output of your own work, even if you got assistance from ChatGPT. So its essential to verify the output of ChatGPT, to ensure the outcome you originally desired is actually present. Don't blame ChatGPT for the mistake, own your own accountability in conciously using ChatGPT to assist you to be more productive. So use the tool like ChatGPT to aid your productivity, but own the accountability of the outcome it creates. (Extreme Ownership!)
 5. Never ever put proprieatry information into ChatGPT, keep your questions informal and abstract if you would like to learn deeply something. For example, don't paste a SQL query or piece of Code from your company you work for and ask fix it. Rather, understand your own curiosity deeply, of what you do not know and ask that abstract question. For example, I am proficient in PostgreSQL syntax but not MSSQL Syntax, but I know what I need to do the next set of discovery, so I paste the query like this. Please see below query.
 6. <img width="627" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/b737a998-a173-413e-b7f0-dc0ced6446e5">
-7. Lastly, if you are curious and tenacious, ChatGPT is a unending source of information, that never gets tired, so keep your curiosity and hunger of experimentation high!
+7. Lastly, if you are curious and tenacious, ChatGPT is an unending source of information, that never gets tired, so keep your curiosity and hunger of experimentation high!
 
 Lets get started!!
 
