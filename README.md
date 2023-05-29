@@ -51,7 +51,7 @@ My name is [Rumpa Giri](https://www.linkedin.com/in/rgiri/), and I'm excited to 
 
 Conclusion:
 - Your journey to career success is fueled by your effort and engagement. As you embark on this early stage of your career, embrace the mindset of continuous learning and experimentation. Dive deep into the craft of software development, with a focus on test-driven development and clean, elegant design. Stay humble in the face of challenges, and let your curiosity keep you hungry for knowledge. Remember, the more you immerse yourself in the world of coding, the more doors of opportunity will open for you. Embrace the adventure and enjoy the thrill of constant growth!
-- We highly encourage asking questions and seeking clarification when needed. There no silly questions, only silly answers!
+- We highly encourage asking questions and seeking clarification when needed. There are no silly questions, only silly answers!
 
 # Acknowledgements
 I would like to express my gratitude and acknowledge the following individuals for their invaluable contributions to the curation of this repository:
