@@ -83,11 +83,18 @@ Fundamental/Foundational Course - Must watch. Worth binge watching while folding
 
 ## Books
 
+### Pragmatic Programmer
+<img width="1279" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/b624ee14-34dd-41be-91e2-fabd6671b765">
+
 https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV
 
 Foundational/MUST read for ones who aspire to become irreplaceable programmers!
 
 Its recently re-published, but once again a timeless classic for software developer community, irrespective of programming language.
+
+### Clean Code
+
+<img width="1118" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/eb136bd1-2ae9-4f2d-aa2b-b38b48f7d91e">
 
 https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 
@@ -96,10 +103,35 @@ Timeless wisdom from Uncle Bob!
 Must have a place on your bookshelf within arms length :slight_smile: 
 
 The MUST have book to build career capital as a good programmer!
+
+### Clean Architecture
  
+<img width="1415" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/25c9ed70-ddac-45d5-a5b7-9c13da083c05">
 
 https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
 
 If you aspire to become an software/application architect, don’t miss the book. 
 
 The MUST have book to build career capital as a good architect!
+
+### ReWork
+
+<img width="858" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/9d382d3d-a657-4008-ba8d-b8a1982122f4">
+
+https://www.amazon.com/Rework-Jason-Fried/dp/0307463745
+	
+For all engineers Jr, Sr, Architect, Product People, anyone who works in a Software Company!
+
+### Software Engineering at Google
+<img width="968" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/be9b670c-f475-4438-866e-27eb3af59c8d">
+
+https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791/
+Learning from the best always helps! This book touches on everything from internal tooling, CI/CD, Code Review Conventions, Scaling Team anything and everything a Software Engineering Team must contemplate on, there is some guidance on. The guidance comes from Google’s internal best practices and knowing their gmail does not have “Report a bug!” button, indicates the quality that is baked in. We aim to be that good, where our only interaction with our customers is to educate them on new features and functionality and not create support ticket!
+
+### How Google Tests Software
+
+<img width="986" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/957b1e15-b5d0-43c6-b3fc-754b3c3ad995">
+
+https://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027/
+
+As a software developer, never give crappy code, invest in testing your own work throughly to your best abilities, before handing it off to the next person you are tag teaming with. 
