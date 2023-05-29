@@ -34,3 +34,48 @@ Timeless Wisdom… some of my takeaways
 - When Nobody’s Saying Anything to You Anymore, That Means They Gave Up.
 - Leadership Skills from Captain Kirk.
 - If you lead your life the right way, your dreams will come to you.
+
+# Courses
+
+## Algorithms
+
+https://www.coursera.org/learn/algorithms-part1
+
+https://www.coursera.org/learn/algorithms-part1#syllabus
+Foundational course for a application and software developer. Its good to know the under the hood of high level abstraction, how these abstractions come into being.
+
+## Relational Database Management Systems
+
+https://www.coursera.org/learn/database-management
+
+https://www.coursera.org/learn/database-management#syllabus
+
+*Note of caution* - Use relational databases only if it applies, plenty of document database present, know the usecase before picking type of database.
+
+Foundational course for a application and software developer.
+
+No amount of TDD can save a bad data model, so we MUST begin with the foundation of good data model design. Appreciate the power of how much database can do, instead of re-inventing the wheel.
+You can reduce your TDD footprint, if you can rely on relational database constraints to model the real world constraints.
+Whether you build application using Ruby, Go, PHP, Python etc domain data modelling principles are independent. Choice of programming language should never influence how the data is modeled.
+
+## SQL Basics
+https://www.coursera.org/specializations/learn-sql-basics-data-science?
+
+https://www.coursera.org/learn/sql-for-data-science#syllabus
+
+https://www.kaggle.com/learn/intro-to-sql
+
+https://www.kaggle.com/learn/advanced-sql
+
+This is an evergreen language to learn, this technology is older that we are and has passed the test of time. Irrespective of passing fad of a programming language, this  knowledge makes you invincible in creating long lasting applications. 
+
+Understand set theory well, and you can unserstand how powerful the 5 keyword(select, from, where, order by, group by) SQL syntax is! There is lot more in SQL beyond these 5, but mastering these 5 key words and its principle helps to do better data mining.
+
+## Building Dynamic Websites
+
+[CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](http://cs75.tv/2012/summer/) 
+
+Ignore the PHP part, but it helps you understand the Web better and under the hood to help you make sense of the SaaS Applications we build and how the web/internet itself influences our design decisions.
+
+Fundamental/Foundational Course - Must watch. Worth binge watching while folding clothes :slight_smile: 
+
