@@ -196,3 +196,26 @@ When to Use `pytest` or `unittest`:
 Ultimately, the choice between `pytest` and `unittest` depends on personal preference, the needs of your project, and the existing test infrastructure. Both frameworks are capable of writing effective unit tests, so it's essential to evaluate their features and decide which aligns better with your testing goals and style.
 
 Don't compromise writing good tests, pick one!
+
+## Why is TDD so important for your career capital?
+
+"If I were given an hour to solve a problem, I would spend 55 minutes pondering over the problem and only 5 minutes contemplating solutions." 
+― Albert Einstein
+
+When it comes to developing software, it is crucial to dedicate ample time to thinking about test scenarios. The depth of your test scenarios provides valuable insights into your understanding of the problem you are attempting to solve.
+
+Always keep the following points in mind:
+
+- If you find it challenging to outline test scenarios for the method you have just written, it indicates a potential lack of understanding of the problem. Take this as a hint to delve deeper into grasping the intricacies of the task at hand.
+
+- Embrace the practice of red/green/refactor from the very start of your career. This approach holds immense value because, by the time your code is complete, you will have already addressed the testing phase. 
+
+- The beauty of the red/green/refactor cycle lies in the fact that, when you finish writing your code, you will have no tests left to create. This systematic process allows you to evolve your code with confidence.
+
+- Consider the maintainability of your code by investing time in writing comprehensive and effective tests. Adequate test coverage ensures that your code remains robust and facilitates easier maintenance in the future.
+
+- Adopt a pragmatic approach to testing. Writing tests solely for the purpose of achieving 100% test coverage on simple getter/setter methods may not be the best use of your time. Instead, focus on writing tests for complex business logic methods that aim to solve real-world problems. By doing so, you lay a solid foundation of feedback that instills confidence in future contributors. They will greatly appreciate the safety net you've created, which helps detect any unintended impact their changes may have on the existing behavior.
+
+- Therefore, Test-Driven Development (TDD) is an investment in time that benefits all future contributors. By paying it forward and prioritizing testing, you contribute to a culture of confidence, enabling future modifications with ease. Embrace the mindset of leaving behind a legacy of trust and empowerment for those who follow in your footsteps!
+
+Remember, the time invested in writing tests is a small price to pay for the long-term benefits they bring. So, seize the opportunity to establish a robust testing practice early on and let it guide your journey as a software developer.
