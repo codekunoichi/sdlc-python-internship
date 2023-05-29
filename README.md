@@ -2,7 +2,7 @@
 June 2023 Internship Content
 
 # Introduction
-Welcome to 8 week internship, in learning basic skills for internship involving, basic application internal tools building using Python, explore REST API debugging using Postman as a tool, and using ChatGPT as our AI powered tutor all along the way!
+Welcome to an 8-week internship focused on developing fundamental skills for internships. Throughout this program, you will learn the art of building basic internal tools using Python, master the art of REST API debugging using the powerful tool Postman, and enjoy the guidance of our AI-powered tutor, ChatGPT, as your trusted companion throughout this incredible journey!
 
 My name is [Rumpa Giri](https://www.linkedin.com/in/rgiri/), and I'm excited to be your mentor for an exciting internal tools project! Together, we'll dive into the world of Python, Rest APIs, and using cool tools like Postman, Chat GPT, and GitHub CoPilot. With our collaboration, we'll quickly bring your ideas to life through coding and help propel our internal project to new milestones. Let's embark on this fun and rewarding coding adventure together!
 
