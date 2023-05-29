@@ -53,3 +53,13 @@ Conclusion:
 - Your journey to career success is fueled by your effort and engagement. As you embark on this early stage of your career, embrace the mindset of continuous learning and experimentation. Dive deep into the craft of software development, with a focus on test-driven development and clean, elegant design. Stay humble in the face of challenges, and let your curiosity keep you hungry for knowledge. Remember, the more you immerse yourself in the world of coding, the more doors of opportunity will open for you. Embrace the adventure and enjoy the thrill of constant growth!
 - We highly encourage asking questions and seeking clarification when needed. There no silly questions, only silly answers!
 
+# Acknowledgements
+I would like to express my gratitude and acknowledge the following individuals for their invaluable contributions to the curation of this repository:
+
+Dr. Srinjoy Das (LinkedIn: [Dr. Srinjoy Das](https://www.linkedin.com/in/srinjoy-das-2073301/)): I extend my heartfelt appreciation to Dr. Das for generously sharing the content of the python course taught at WVU DS 101. Their expertise has played a significant role in shaping the materials presented here.
+
+[A byte of Python](https://python.swaroopch.com/): Based on Dr. Das' suggestion, this remarkable book has served as a fundamental resource for curating the Jupyter Notebook content. Its insights and guidance have been instrumental in creating a comprehensive learning experience.
+
+I would also like to express my deepest gratitude to the countless generous souls who have written exceptional READMEs on GitHub repositories, provided sample repositories, and authored numerous O'Reilly books. Their selfless contributions have been instrumental in shaping the development and understanding of this repository.
+
+I am truly grateful for the collective efforts of these individuals, as their expertise and generosity have made this repository possible.
