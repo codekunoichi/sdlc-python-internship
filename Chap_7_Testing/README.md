@@ -37,3 +37,66 @@ Test-driven development (TDD) is a software development approach that emphasizes
 6. Continuous Integration: Unit tests are essential for continuous integration and continuous delivery (CI/CD) pipelines. They ensure that new changes don't break existing functionality and allow for automated testing and deployment.
 
 By following the test-driven development approach and writing unit tests, you can improve code quality, reduce bugs, and enhance the overall maintainability of your Python projects.
+
+## Example using pytest
+
+Here's an example of how to use `pytest` for testing a simple Python method. Let's say we have a module called `calculator.py` with a method called `add()` that adds two numbers:
+
+**calculator.py:**
+```python
+def add(a, b):
+    return a + b
+```
+
+To write tests for the `add()` method using `pytest`, follow these steps:
+
+1. Install `pytest` by running the command `pip install pytest` in your terminal or command prompt.
+
+2. Create a new file named `test_calculator.py` in the same directory as `calculator.py`.
+
+3. In `test_calculator.py`, import the `pytest` library and the method you want to test.
+
+**test_calculator.py:**
+```python
+import pytest
+from calculator import add
+```
+
+4. Write test functions using the `pytest` framework. Test functions should have names starting with `test_` to be automatically discovered by `pytest`. Use the `assert` statement to check if the actual output matches the expected output.
+
+**test_calculator.py:**
+```python
+def test_add_positive_numbers():
+    assert add(2, 3) == 5
+
+def test_add_negative_numbers():
+    assert add(-5, -7) == -12
+
+def test_add_zero():
+    assert add(10, 0) == 10
+```
+
+5. To run the tests, simply execute `pytest` in the terminal or command prompt in the same directory as `test_calculator.py`. `pytest` will automatically discover and execute all the test functions in the file.
+
+```
+$ pytest
+```
+
+The output will show the status of each test, indicating if they passed or failed:
+
+```
+============================= test session starts ==============================
+platform linux -- Python 3.8.10, pytest-6.2.4, py-1.10.0, pluggy-0.13.1
+rootdir: /path/to/your/directory
+collected 3 items
+
+test_calculator.py ...                                                [100%]
+
+============================== 3 passed in 0.01s ===============================
+```
+
+In this example, we wrote three test functions to verify the behavior of the `add()` method. Each test asserts that the actual result of the `add()` method matches the expected result for different scenarios.
+
+By running the `pytest` command, the tests will be executed, and you will see the results. If all tests pass, it means that the `add()` method is functioning as expected. If any test fails, `pytest` will provide details about the failure, helping you identify and fix the issue.
+
+Note: It's good practice to organize your tests into separate files or directories, especially as your test suite grows larger. `pytest` follows a set of conventions to discover and run tests automatically, making it easy to scale your testing efforts.
