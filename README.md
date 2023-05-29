@@ -60,6 +60,8 @@ Dr. Srinjoy Das (LinkedIn: [Dr. Srinjoy Das](https://www.linkedin.com/in/srinjoy
 
 [A byte of Python](https://python.swaroopch.com/): Based on Dr. Das' suggestion, this remarkable book has served as a fundamental resource for curating the Jupyter Notebook content. Its insights and guidance have been instrumental in creating a comprehensive learning experience.
 
+I would like to acknowledge, ChatGPT in helping curate parts of the content of this repository. English is not my native language, but using ChatGPT, for many of the blurbs you see here including this acknowledgement section, from my basic draft outline where I expressed my intent in a paragraph and ChatGPT made it much grammatically correct and blog worthy!
+
 I would also like to express my deepest gratitude to the countless generous souls who have written exceptional READMEs on GitHub repositories, provided sample repositories, and authored numerous O'Reilly books. Their selfless contributions have been instrumental in shaping the development and understanding of this repository.
 
 I am truly grateful for the collective efforts of these individuals, as their expertise and generosity have made this repository possible.
