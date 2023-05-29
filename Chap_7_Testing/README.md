@@ -168,3 +168,31 @@ In this example, we created a subclass of `unittest.TestCase` named `CalculatorT
 By running the test file, `unittest` will execute the test methods and display the results. If all tests pass, it means that the `add()` method is functioning as expected. If any test fails, `unittest` will provide details about the failure, helping you identify and fix the issue.
 
 The `unittest` module offers additional features for test setup and teardown, test discovery, and more. It's a comprehensive testing framework that comes built-in with Python, making it a powerful choice for unit testing in Python projects.
+
+## Ooh.. Too many choices, how to decide unittest vs pytest!
+
+The `pytest` and `unittest` frameworks are both popular choices for writing unit tests in Python, but they have some key differences in terms of syntax, features, and philosophy. Here are the key differences between `pytest` and `unittest`:
+
+1. Syntax: `pytest` offers a more concise and expressive syntax compared to `unittest`. It allows you to write tests using plain functions rather than defining test classes and methods like in `unittest`. `pytest` leverages Python's assert statement for assertions, making the test code more readable and natural.
+
+2. Test Discovery: `pytest` has powerful test discovery capabilities. It automatically discovers and runs all test functions in files that match a certain naming pattern (e.g., files starting with `test_` or ending with `_test.py`). In contrast, `unittest` requires explicit definition of test classes and methods and relies on a test runner to execute them.
+
+3. Fixtures: `pytest` provides a flexible and powerful fixture mechanism that allows you to set up and tear down resources needed for tests. Fixtures help with test setup and can be reused across multiple tests. `unittest` also has similar functionality, but `pytest` offers a more streamlined and intuitive approach.
+
+4. Assertions: Both frameworks provide a range of assertions for verifying expected outcomes. `unittest` has a wide variety of assertions built-in, while `pytest` provides a smaller set of core assertions. However, `pytest` can be extended with additional assertion libraries like `pytest-codestyle`, `pytest-approx`, or `pytest-mock`.
+
+5. Plugins and Ecosystem: `pytest` has a rich ecosystem of plugins that extend its functionality. These plugins cover a wide range of areas such as test coverage, code analysis, mocking, parallel testing, and more. `unittest` has a more limited ecosystem of extensions and plugins.
+
+When to Use `pytest` or `unittest`:
+
+- Use `pytest` when you prefer a more concise and expressive syntax, powerful test discovery, and a rich ecosystem of plugins. `pytest` is especially useful for complex test setups, fixtures, and parameterized testing.
+
+- Use `unittest` when you prefer a more traditional and structured approach to writing tests. `unittest` is well-suited for larger projects with more extensive test suites that require a hierarchical test organization.
+
+- If you're starting a new project or have the freedom to choose, it's worth considering the benefits of `pytest`, such as its ease of use, readability, and powerful features.
+
+- If you're working with an existing codebase that already uses `unittest`, it may be more convenient to continue using `unittest` to maintain consistency and avoid rewriting existing tests.
+
+Ultimately, the choice between `pytest` and `unittest` depends on personal preference, the needs of your project, and the existing test infrastructure. Both frameworks are capable of writing effective unit tests, so it's essential to evaluate their features and decide which aligns better with your testing goals and style.
+
+Don't compromise writing good tests, pick one!
