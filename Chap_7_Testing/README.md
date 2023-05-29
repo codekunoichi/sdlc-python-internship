@@ -100,3 +100,71 @@ In this example, we wrote three test functions to verify the behavior of the `ad
 By running the `pytest` command, the tests will be executed, and you will see the results. If all tests pass, it means that the `add()` method is functioning as expected. If any test fails, `pytest` will provide details about the failure, helping you identify and fix the issue.
 
 Note: It's good practice to organize your tests into separate files or directories, especially as your test suite grows larger. `pytest` follows a set of conventions to discover and run tests automatically, making it easy to scale your testing efforts.
+
+## Example using unittest
+
+Here's the same example of testing the `add()` method, but this time using the built-in `unittest` module in Python:
+
+**calculator.py:**
+```python
+def add(a, b):
+    return a + b
+```
+
+To write tests for the `add()` method using `unittest`, follow these steps:
+
+1. Import the `unittest` module and the method you want to test.
+
+**test_calculator.py:**
+```python
+import unittest
+from calculator import add
+```
+
+2. Create a subclass of `unittest.TestCase` to define your test case.
+
+**test_calculator.py:**
+```python
+class CalculatorTest(unittest.TestCase):
+    def test_add_positive_numbers(self):
+        result = add(2, 3)
+        self.assertEqual(result, 5)
+
+    def test_add_negative_numbers(self):
+        result = add(-5, -7)
+        self.assertEqual(result, -12)
+
+    def test_add_zero(self):
+        result = add(10, 0)
+        self.assertEqual(result, 10)
+```
+
+3. To run the tests, you can execute the `unittest` module directly by adding the following code at the bottom of your test file:
+
+**test_calculator.py:**
+```python
+if __name__ == '__main__':
+    unittest.main()
+```
+
+4. Run the `test_calculator.py` file. The `unittest` module will discover and execute the test methods within the `CalculatorTest` class.
+
+```
+$ python test_calculator.py
+```
+
+The output will show the status of each test, indicating if they passed or failed:
+
+```
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+```
+
+In this example, we created a subclass of `unittest.TestCase` named `CalculatorTest`, which contains three test methods. Each test method calls the `add()` function with different inputs and asserts that the actual result matches the expected result using the `self.assertEqual()` method provided by `unittest.TestCase`.
+
+By running the test file, `unittest` will execute the test methods and display the results. If all tests pass, it means that the `add()` method is functioning as expected. If any test fails, `unittest` will provide details about the failure, helping you identify and fix the issue.
+
+The `unittest` module offers additional features for test setup and teardown, test discovery, and more. It's a comprehensive testing framework that comes built-in with Python, making it a powerful choice for unit testing in Python projects.
