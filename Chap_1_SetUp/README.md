@@ -27,7 +27,7 @@ The following commands are your daily bread and butter, if you are using CLI
 
 ## Add GitHub CoPilot Extension
 
-![image](https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/f35cde00-8718-4066-8bd1-48dd71b014c8)
+![image](https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/dcd60ec0-c677-42dd-9e70-b347562e4c42)
 
 
 ## Postman
