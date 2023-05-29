@@ -36,3 +36,14 @@ The following commands are your daily bread and butter, if you are using CLI
 4. The best tool for debugging APIs in general, is to call it using API Exploration tool like Postman and play with query parameters and study the HTTP Response in real-time to debug pressing issues. 
 5. Most likely, the REST APIs you would be using is secured by an API Token, understand the authorization mechanism for the REST API you will be working for before tinkering around with the API in Postman.
 
+## ChatGPT
+1. Create an account in ChatGPT if you have not go to [here](https://platform.openai.com/signup?launch)
+2. Take this course to learn [effective prompt engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), before embarking on partnering with ChatGPT.
+3. The course teaches you how to give clear and specific instructions to ChatGPT to get your help better and faster.
+- Principle 1: Write clear and specific instructions
+- Principle 2: Give the model time to “think”
+4. You own the output of your own work, even if you got assistance from ChatGPT. So its essential to verify the output of ChatGPT, to ensure the outcome you originally desired is actually present. Don't blame ChatGPT for the mistake, own your own accountability in conciously using ChatGPT to assist you to be more productive. So use the tool like ChatGPT to aid your productivity, but own the accountability of the outcome it creates. (Extreme Ownership!)
+5. Lastly, if you are curious and tenacious, ChatGPT is a unending source of information, that never gets tired, so keep your curiosity and hunger of experimentation high!
+
+Lets get started!!
+
