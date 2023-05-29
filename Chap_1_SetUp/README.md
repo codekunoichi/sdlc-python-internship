@@ -49,6 +49,7 @@ The following commands are your daily bread and butter, if you are using CLI
 See image below:
 
 By adhering to these guidelines, you can explore and learn more effectively while safeguarding proprietary information.
+
 6. <img width="627" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/b737a998-a173-413e-b7f0-dc0ced6446e5">
 7. Lastly, if you are curious and tenacious, ChatGPT is an unending source of information, that never gets tired, so keep your curiosity and hunger of experimentation high!
 
