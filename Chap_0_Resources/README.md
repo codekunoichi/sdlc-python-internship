@@ -79,3 +79,6 @@ Ignore the PHP part, but it helps you understand the Web better and under the ho
 
 Fundamental/Foundational Course - Must watch. Worth binge watching while folding clothes :slight_smile: 
 
+<img width="259" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/6041a9b6-700d-4c9d-bfe0-3c9e3263a45b">
+
+
