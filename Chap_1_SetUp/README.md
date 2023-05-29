@@ -29,3 +29,10 @@ The following commands are your daily bread and butter, if you are using CLI
 
 <img width="884" alt="image" src="https://github.com/AMNEngineering/amn-internship-python/assets/29447019/182bacec-ac24-4d73-a77a-ec29dbf39a36">
 
+## Postman
+1. Go to [Download Postman](https://www.postman.com/downloads/) and get the latest postman tool.
+2. Create an account in postman, I created one using my gmail account. This helps create your own workspace and fork interesting Postman Collection to work in your workspace.
+3. [Public REST APIs](https://www.postman.com/cs-demo/workspace/public-rest-apis/collection/8854915-454a2dc7-dcbe-41cf-9bfa-da544fcd93a2) Is a colleciton of random publicly available REST APIs, which you can play with in your postman tool and study the underlying HTTP request/response.
+4. The best tool for debugging APIs in general, is to call it using API Exploration tool like Postman and play with query parameters and study the HTTP Response in real-time to debug pressing issues. 
+5. Most likely, the REST APIs you would be using is secured by an API Token, understand the authorization mechanism for the REST API you will be working for before tinkering around with the API in Postman.
+
