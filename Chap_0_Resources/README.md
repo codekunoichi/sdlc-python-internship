@@ -81,4 +81,25 @@ Fundamental/Foundational Course - Must watch. Worth binge watching while folding
 
 <img width="259" alt="image" src="https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/6041a9b6-700d-4c9d-bfe0-3c9e3263a45b">
 
+## Books
 
+https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV
+
+Foundational/MUST read for ones who aspire to become irreplaceable programmers!
+
+Its recently re-published, but once again a timeless classic for software developer community, irrespective of programming language.
+
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+
+Timeless wisdom from Uncle Bob!
+
+Must have a place on your bookshelf within arms length :slight_smile: 
+
+The MUST have book to build career capital as a good programmer!
+ 
+
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/
+
+If you aspire to become an software/application architect, don’t miss the book. 
+
+The MUST have book to build career capital as a good architect!
