@@ -41,6 +41,8 @@ How do the most effective engineers make their efforts, their teams, and their c
 
 In this talk, Edmond will share the most valuable insights that leaders from various top tech companies learned and the most common and costly mistakes that they've seen engineers — sometimes themselves — make. He will distill down some of the key themes and share a unifying framework called leverage that you can use to identify activities that produce disproportionate results.
 
+Timeless Wisdom… some of my takeaways
+
 - Focus on High Leverage Activities
 - Leverage = Impact Produced / Time Invested
 - Optimize for Learning
