@@ -35,6 +35,26 @@ Timeless Wisdom… some of my takeaways
 - Leadership Skills from Captain Kirk.
 - If you lead your life the right way, your dreams will come to you.
 
+[The Effective Engineer | Edmond Lau | Talks at Google](https://www.youtube.com/watch?v=BnIz7H5ruy0)
+
+How do the most effective engineers make their efforts, their teams, and their careers more successful?
+
+In this talk, Edmond will share the most valuable insights that leaders from various top tech companies learned and the most common and costly mistakes that they've seen engineers — sometimes themselves — make. He will distill down some of the key themes and share a unifying framework called leverage that you can use to identify activities that produce disproportionate results.
+
+- Focus on High Leverage Activities
+- Leverage = Impact Produced / Time Invested
+- Optimize for Learning
+- Prioritize Regularly
+- Invest in Iteration Speed
+- Measure what you want to Improve
+- Validate your ideas early and often.
+- Improve project estimation skills.
+- Balance Quality with Pragmatism
+- Reduce Operational Complexity
+- Fail Fast
+- Relentlessly Automate
+- Invest in your team's Growth
+
 # Courses
 
 ## Algorithms
