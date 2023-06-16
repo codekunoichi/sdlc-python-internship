@@ -1,7 +1,7 @@
 """
     This is a simple Hello World application that will be used to demonstrate fastAPI simplicity
 """
-from fastapi import FastAPI
+from fastapi import FastAPI, Body
 
 app = FastAPI()
 
@@ -33,6 +33,15 @@ def hello_name(name: str) -> None:
 def greetings(who: str) -> None:
     """
         Illustrates the use of query parameters
+        returns Hi!
+        call using localhost:8000/hi
+    """
+    return f"Hi! {who}"
+
+@app.post("/greetings")
+def greetings_post(who: str = Body(embed=True)):
+    """
+        Illustrates the use of Body parameters
         returns Hi!
         call using localhost:8000/hi
     """

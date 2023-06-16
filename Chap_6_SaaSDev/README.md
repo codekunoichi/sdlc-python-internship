@@ -67,3 +67,29 @@ http -b localhost:8000/
 
 "Welcome to the sample fastAPI App!"
 ```
+- Post example
+```
+$ http -v localhost:8000/greetings who=Mom
+
+POST /greetings HTTP/1.1
+Accept: application/json, */*;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Content-Length: 14
+Content-Type: application/json
+Host: localhost:8000
+User-Agent: HTTPie/3.2.2
+
+{
+    "who": "Mom"
+}
+
+
+HTTP/1.1 200 OK
+content-length: 9
+content-type: application/json
+date: Fri, 16 Jun 2023 20:17:40 GMT
+server: uvicorn
+
+"Hi! Mom"
+```
