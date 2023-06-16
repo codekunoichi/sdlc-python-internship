@@ -93,3 +93,10 @@ server: uvicorn
 
 "Hi! Mom"
 ```
+
+## Automatic API Docs!
+
+`http://localhost:8000/docs`
+
+- FastAPI generates an OpenAPI Spec from the path decorators mentioned, swagger document will be generated.
+- Since I am inside a codespace, the URL was like `https://codekunoichi-animated-meme-4q5jgpwxxv43qg6p-8000.preview.app.github.dev/docs` 
