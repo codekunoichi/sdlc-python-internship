@@ -29,3 +29,11 @@ def hello_name(name: str) -> None:
     """
     return f"Hello {name}!"
 
+@app.get("/greetings")
+def greetings(who: str) -> None:
+    """
+        Illustrates the use of query parameters
+        returns Hi!
+        call using localhost:8000/hi
+    """
+    return f"Hi! {who}"
