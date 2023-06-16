@@ -99,4 +99,5 @@ server: uvicorn
 `http://localhost:8000/docs`
 
 - FastAPI generates an OpenAPI Spec from the path decorators mentioned, swagger document will be generated.
-- Since I am inside a codespace, the URL was like `https://codekunoichi-animated-meme-4q5jgpwxxv43qg6p-8000.preview.app.github.dev/docs` 
+- Since I am inside a codespace, the URL was like `https://codekunoichi-animated-meme-4q5jgpwxxv43qg6p-8000.preview.app.github.dev/docs`
+- ![image](https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/a6756cf2-0518-4210-a29f-4adb00782ea8)
