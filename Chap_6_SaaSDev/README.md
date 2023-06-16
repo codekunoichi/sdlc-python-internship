@@ -61,3 +61,9 @@ server: uvicorn
 "Welcome to the sample fastAPI App!"
 ```
 - With `-b` this will skip the response headers and only print the body.
+
+```
+http -b localhost:8000/ 
+
+"Welcome to the sample fastAPI App!"
+```
