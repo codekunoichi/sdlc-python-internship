@@ -1,5 +1,5 @@
 """
-    This is a simple Hello World application that will be used to demonstrate
+    This is a simple Hello World application that will be used to demonstrate fastAPI simplicity
 """
 from fastapi import FastAPI
 
