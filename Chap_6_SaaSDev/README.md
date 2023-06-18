@@ -10,6 +10,7 @@ Highlight the importance of scalability, security, and user experience.
 - FastAPI supports modern Python asynchronous web standard [ASGI](https://asgi.readthedocs.io/en/latest/)
 - Other web frameworks are Django, Flask. They are based on traditional synchronous [WSGI](https://wsgi.readthedocs.io/en/latest/what.html) standard.
 - This mini-tutorial will explore upcoming FastAPI only.
+- The book [FastAPI](https://learning.oreilly.com/library/view/fastapi/9781098135492/) the early release verion by `Bill Lubanovic` is short, sweet, and effective examples. The following notes are inspired by reading the book June 2023.
 
 - Advantages listed as in website:
 
