@@ -7,7 +7,8 @@ Highlight the importance of scalability, security, and user experience.
 # FastAPI
 - Created in 2018 by [Sebastian Ramirez](https://tiangolo.com/)
 - [FastAPI](https://fastapi.tiangolo.com/) is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
-- Other web frameworks are Django, Flask.
+- FastAPI supports modern Python asynchronous web standard [ASGI](https://asgi.readthedocs.io/en/latest/)
+- Other web frameworks are Django, Flask. They are based on traditional synchronous [WSGI](https://wsgi.readthedocs.io/en/latest/what.html) standard.
 - This mini-tutorial will explore upcoming FastAPI only.
 
 - Advantages listed as in website:
