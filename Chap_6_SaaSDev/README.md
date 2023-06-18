@@ -40,6 +40,8 @@ The key features are:
 - `uvicorn Chap_6_SaaSDev.hello_world:app --reload`
 - Note - since `hello_world.py` is under the Folder named `Chap_6_SaasDev`, you need to do the dot notation for the application to locate the basic app.
 - The web server automatically is watching for changes to the application files under `'/workspaces/sdlc-python-internship'` and reloads it for you. This is because we used the option `--reload` when using `Uvicorn`
+- You can `cd Chap_6_SaaSDev`
+- `uvicorn hello_world:app --reload`
 
 #### Using Browser
 - Since you are inside a codespace, the environment figures out the need for a browser and gives you the option to open a browser to interact with the web server running inside the codespace.
@@ -102,3 +104,11 @@ server: uvicorn
 - FastAPI generates an OpenAPI Spec from the path decorators mentioned, swagger document will be generated.
 - Since I am inside a codespace, the URL was like `https://codekunoichi-animated-meme-4q5jgpwxxv43qg6p-8000.preview.app.github.dev/docs`
 - ![image](https://github.com/codekunoichi/sdlc-python-internship/assets/29447019/a6756cf2-0518-4210-a29f-4adb00782ea8)
+
+## Tiny but Mighty and Cute Web App
+
+- model.py - Your data model
+- data.py - Your fake book list
+- web.py - Make an end point with 4 lines of code that returns the list of the books! Yay!!
+
+
